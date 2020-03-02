@@ -12,7 +12,7 @@
 - Tolong jangan rosakkan server kami
 - Berbaiklah antara satu sama lain
 
-**----<<<< Jadilah Imsan Yang Terbaik >>>>----**
+**---<<< Jadilah Insan Yang Terbaik >>>---**
 
 ###### Lain-Lain
 
@@ -41,4 +41,4 @@ Discord|Whatsapp
           Guest
 
 
-[English Language](https://github.com/JPoisonLegacy/DreamWorld-Malaysia/tree/master)
+[English Language](https://github.com/JPoisonLegacy/DreamWorld-Rules/blob/master)
